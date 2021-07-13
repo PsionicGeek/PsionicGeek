@@ -19,11 +19,8 @@
 <h2 align="left">GitHub Stats</h2>
 <p align="left">
  <div align= "left">
- <img  align="left"src="https://github-readme-stats.vercel.app/api?username=PsionicGeek&show_icons=true&theme=dark&count_private=true" />
-  
-  
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsionicGeek&langs_count=8&layout=compact&theme=dark" />
-  </div>
+ <img  align="center"src="https://github-readme-stats.vercel.app/api?username=PsionicGeek&show_icons=true&theme=dark&count_private=true" />
+ </div>
 </p>
  <div align="left">
     <h2 align="left">Ongoing Projects</h2>
