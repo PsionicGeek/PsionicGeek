@@ -53,6 +53,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PsionicGeek&repo=JoinUs&layout=compact&theme=dark" />	
   </a>
 	</p>
+	|
 <p align="right">
   <a href="https://github.com/PsionicGeek/TempRecor">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PsionicGeek&repo=TempRecor&layout=compact&theme=dark" />
