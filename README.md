@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   </a>
  </div>
 
-<div align= "left">
+<div >
 	  <h2 align="left">Completed Projects</h2>
 <p align="left">
   <a href="https://github.com/PsionicGeek/JoinUs">
