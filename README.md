@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 </p>
  <div align="left">
     <h2 align="left">Ongoing Projects</h2>
-  <a href="https://github.com/PsionicGeek/chat_with_gpt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PsionicGeek&repo=chat_with_gpt&layout=compact&theme=dark" />
+  <a href="https://github.com/PsionicGeek/GFGSeriesMAANG">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PsionicGeek&repo=GFGSeriesMAANG&layout=compact&theme=dark" />
   </a>
  </div>
 
